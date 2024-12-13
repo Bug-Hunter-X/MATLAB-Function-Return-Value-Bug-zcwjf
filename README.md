@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in MATLAB related to function return values.  The `bug.m` file contains a function with a misplaced semicolon in the return statement. This seemingly minor error can lead to unexpected behavior and difficult-to-debug issues. The `bugSolution.m` file provides the corrected version of the code.
